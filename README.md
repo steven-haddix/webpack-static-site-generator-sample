@@ -1,0 +1,1 @@
+# webpack-static-site-generator-sample
